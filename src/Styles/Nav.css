@@ -1,0 +1,45 @@
+
+.active{
+   color: red;
+}
+
+.link{
+   text-decoration: none;
+   color: #000;
+   font-size: 22px;}
+
+.link:hover{
+   font-size: 27px;
+   transition: 0.3s;}
+
+.container-logo{
+   position: relative;
+   left: 40px ;
+   padding: 8px;}
+
+
+.container-link{
+   width:500px ;
+   display: flex;
+   justify-content: space-around;
+   position: relative;
+   right: 50px;
+   top: 30px;}
+
+@media only screen and (max-width: 900px) {
+               .container-logo{
+                       width: 100%;
+                       display: flex;
+                       flex-wrap: nowrap;
+                       justify-content: center;
+                       position: relative;
+                       left: 0px ;
+                       top: 30px;}
+               
+               .container-link{
+                       width: 100%;
+                       display: flex;
+                       justify-content: space-around;
+                       position: relative;
+                       right: 0px;}}
+        

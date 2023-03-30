@@ -1,0 +1,52 @@
+[
+   { "id": "00001",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-mundial-qatar-2022-ecuador-1.jpg",
+     "name": "Ecuador",
+     "price": "40"},
+
+     { "id": "00002",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-mundial-qatar-2022-catar-1.jpg",
+     "name": "Qatar",
+     "price": "10"},
+
+     { "id": "00003",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/senegal-2022-puma-home-kit-2.jpg",
+     "name": "Senegal",
+     "price": "20"},
+
+     { "id": "00004",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-nike-paises-bajos-2022-2.jpg",
+     "name": "Paises Bajos",
+     "price": "20"},
+
+     { "id": "00005",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-mundial-qatar-2022-argentina-1.jpg",
+     "name": "Argentina",
+     "price": "70"},
+
+     { "id": "00006",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-mundial-qatar-2022-mexico-1.jpg",
+     "name": "Mexico",
+     "price": "15"},
+
+     { "id": "00007",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-nike-francia-2022-2.jpg",
+     "name": "Francia",
+     "price": "50"},
+
+     { "id": "00008",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-adidas-espana-2022-1.jpg",
+     "name": "España",
+     "price": "35"},
+
+     { "id": "00009",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-adidas-alemania-2022-1.jpg",
+     "name": "Alemania",
+     "price": "40"},
+
+     { "id": "00010",
+     "image": "https://todosobrecamisetas.com/wp-content/uploads/camisetas-nike-brasil-2022-3.jpg",
+     "name": "Brasil",
+     "price": "100"}
+
+]
