@@ -4,7 +4,6 @@ import { useSelector, useDispatch} from 'react-redux';
 import { deleteComponentLitleCar, addLittleCar } from "../../counterSlice";
 import ComponentList from "./ComponentList";
 import TitleLittleCar from "./TitleLittleCar";
-import Footer from "../Footer";
 
 const LittleCar = () =>{
 

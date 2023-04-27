@@ -69,7 +69,6 @@ const ComponentList = (prop) =>{
 
                <Delete onClick={prop.click}><RiDeleteBin6Line  color="red" size="20" height="20" /></Delete>
                <Delete onClick={prop.add}><BsCart4 color="green" size="20" height="20" /></Delete>
-            
                
          </ComponentList>
 
